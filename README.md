@@ -1,2 +1,2 @@
-fb
+/fb
 .html
